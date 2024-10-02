@@ -7,7 +7,6 @@
     margin: 0 auto;
     overflow: hidden;
   }
-
   .hour-hand, .minute-hand, .second-hand {
     background-color: #333;
     position: absolute;
