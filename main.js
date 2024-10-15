@@ -1,5 +1,4 @@
-function rotateClockHands()
-{
+function rotateClockHands(){
     const date = new Date();
     const hours = date.getHours() % 12;
     const minutes = date.getMinutes();
